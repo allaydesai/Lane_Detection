@@ -76,10 +76,9 @@ Finally, overlay lines drawn on the original image to verify visually how accura
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-
-One potential shortcoming would be what would happen when ... 
-
-Another shortcoming could be ...
+Potential shortcomings would be:
+* Curvy roads: The video that the algorithm is run on has reletively gardual turns. this algorithm might not be so accurate with sharp turns.
+* 
 
 
 ### 3. Suggest possible improvements to your pipeline
