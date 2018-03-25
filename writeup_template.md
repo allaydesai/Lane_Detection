@@ -105,4 +105,3 @@ Improvments:
 * Experiment with additonal colors for color selection mask
 * Add complexity by choosing an higher order polynomail
 
-Another potential improvement could be to ...
